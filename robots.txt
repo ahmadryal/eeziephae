@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zachaihai.karlbenedict.com/sitemap.xml
